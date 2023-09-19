@@ -1,16 +1,35 @@
-### Hi there 👋
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/40685535?s=400&u=9d7562035bb738259b163bf0e120cfeeaaf63d60&v=4" alt="Niit">
+</p>
 
-<!--
-**nky001/nky001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hello, Hoomans!
 
-Here are some ideas to get you started:
+A passionate developer who's constantly exploring the world of ERRORS. Welcome to my GitHub!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🐍 Python Developer
+- 🌐 Web Developer
+- 📚 Still in University (Learning never stops, right?)
+- ☕ Excellent (or maybe the worst ) in Java
+
+I love to tinker with code, build cool projects, and solve problems with technology. 
+
+## 💼 What You'll Find Here
+
+- A little bit of coding material
+- Nothing
+- Some informative things, maybe?
+- And again, nothing 
+
+## 🌟 Socials
+
+- [Email](mailto:nitishyy@gmail.com)
+- [Discord](https://discordapp.com/users/532831020916146186)
+
+## 🔥 Fun Facts
+
+- I once tried to write a Python script to make coffee (it didn't go well).
+- I do a very important job in my free time (sleep).
+
+Today is the end of the world, so kindly do something good 🤟
