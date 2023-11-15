@@ -1,6 +1,14 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/40685535?s=400&u=9d7562035bb738259b163bf0e120cfeeaaf63d60&v=4" alt="Niit">
+  <img src="https://avatars.githubusercontent.com/u/40685535?s=400&u=9d7562035bb738259b163bf0e120cfeeaaf63d60&v=4" alt="Niit" style="border-radius: 50%; box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); animation: spin 3s linear infinite;">
 </p>
+
+<style>
+  @keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+  }
+</style>
+
 
 # 👋 Hello, Hoomans!
 
