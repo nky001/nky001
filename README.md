@@ -17,7 +17,7 @@
 <p align="center"> 
   <samp>
     <br>
-    I am a Software and web application developer 
+    I am a Software and web app developer 
     <br>
   </samp>
 </p>
